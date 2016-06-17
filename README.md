@@ -3,7 +3,7 @@
  
 ## 启动MQ
 
-从 http://activemq.apache.org/download.html下载MQ的最新版本，本教程使用版本为5.5。
+从 http://activemq.apache.org/download.html 下载MQ的最新版本，本教程使用版本为5.9.1。
 解压后，可以看到MQ目录下有以下文件和目录
 
 activemq-all-5.5.0.jar:所有MQ JAR包的集合，用于用户系统调用
